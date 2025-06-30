@@ -24,13 +24,13 @@
     {
       "output": "minecraft:potato",
       "payment": {
-        "item": "minecraft:diamond"
+        "item": "kubejs:silver_gt_credit"
       }
     },
     {
       "output": "minecraft:carrot",
       "payment": {
-        "item": "minecraft:diamond"
+        "item": "kubejs:silver_gt_credit"
       }
     }
   ]

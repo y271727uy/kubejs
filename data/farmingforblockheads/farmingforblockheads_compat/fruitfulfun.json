@@ -1,0 +1,17 @@
+{
+  "modId": "fruitfulfun",
+  "silent": true,
+  "group": {
+    "name": "fruitfulfun_tree",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "kubejs:silver_gt_credit"
+    },
+    "defaultCategory": "farmingforblockheads:tree"
+  },
+  "customEntries": [
+    {
+      "output": "fruitfulfun:tangerine_sapling"
+    }
+  ]
+}
