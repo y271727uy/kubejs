@@ -5,7 +5,7 @@
     "name": "Pam's HarvestCraft 2 Trees Saplings",
     "enabledByDefault": true,
     "defaultPayment": {
-      "item": "minecraft:emerald"
+      "item": "kubejs:silver_gt_credi"
     },
     "defaultCategory": "farmingforblockheads:saplings"
   },

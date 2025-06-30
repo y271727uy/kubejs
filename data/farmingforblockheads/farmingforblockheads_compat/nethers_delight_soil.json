@@ -5,7 +5,7 @@
     "name": "Nethers Delight Compost",
     "enabledByDefault": false,
     "defaultPayment": {
-      "item": "minecraft:emerald"
+      "item": "kubejs:silver_gt_credi"
     },
     "defaultCategory": "farmingforblockheads:other"
   },
