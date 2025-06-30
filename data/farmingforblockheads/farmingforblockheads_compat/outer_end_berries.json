@@ -5,7 +5,7 @@
     "name": "Outer End Berries",
     "enabledByDefault": false,
     "defaultPayment": {
-      "item": "kubejs:silver_gt_credi"
+      "item": "kubejs:silver_gt_credit"
     },
     "defaultCategory": "farmingforblockheads:seeds"
   },

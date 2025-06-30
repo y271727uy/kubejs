@@ -5,7 +5,7 @@
     "name": "Farmers Delight Seeds",
     "enabledByDefault": true,
     "defaultPayment": {
-      "item": "kubejs:silver_gt_credi"
+      "item": "kubejs:silver_gt_credit"
     },
     "defaultCategory": "farmingforblockheads:seeds"
   },

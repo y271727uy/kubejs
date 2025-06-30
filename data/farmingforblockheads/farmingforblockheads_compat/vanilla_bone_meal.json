@@ -4,7 +4,7 @@
     "name": "Bone Meal",
     "enabledByDefault": true,
     "defaultPayment": {
-      "item": "kubejs:silver_gt_credi"
+      "item": "kubejs:silver_gt_credit"
     },
     "defaultCategory": "farmingforblockheads:other"
   },

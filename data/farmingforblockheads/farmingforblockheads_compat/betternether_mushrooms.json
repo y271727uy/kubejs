@@ -5,7 +5,7 @@
     "name": "BetterNether Mushrooms",
     "enabledByDefault": false,
     "defaultPayment": {
-      "item": "kubejs:silver_gt_credi"
+      "item": "kubejs:silver_gt_credit"
     },
     "defaultCategory": "farmingforblockheads:other"
   },
